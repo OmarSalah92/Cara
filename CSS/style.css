@@ -1,0 +1,467 @@
+img {
+    margin-bottom: 20px;
+}
+
+.bg-image {
+    
+    background-image: url(../images/hero4.jpg);
+    height: 700px;
+    background-size: cover;
+    
+    width: 100%;
+}
+
+
+.mt-5 {
+    margin-top: 8rem!important;
+
+}
+
+
+.save {
+    margin-top: 3rem!important;
+}
+
+.products {
+    margin-top: 2rem!important;
+}
+
+.button {
+
+    background-image: url('../images/button.png');
+    width: 217px;
+    height: 49px;
+
+}
+
+
+
+.row {
+    column-gap: 43px;
+}
+
+.fs-6 {
+    font-size: 0.9rem!important;
+}
+
+.stars {
+
+    margin-left: -0.5rem!important;
+}
+
+.rounded {
+    border-radius: 1rem!important;
+
+}
+
+.fa-solid {
+    margin-top: -3.6rem!important;
+}
+
+
+i:hover {
+    cursor: pointer;
+}
+
+
+.explore {
+
+    
+
+    background-image: url(../images/b2.jpg);
+    height: 315px;
+    background-size: cover;
+    width: 100%;
+
+}
+
+
+
+.bg-image1 {
+    
+    background-image: url(../images/b17.jpg);
+    height: 307px;
+    background-size: cover;
+    width: 46%;
+    
+    
+    
+}
+.bg-image2 {
+    
+    background-image: url(../images/b10.jpg);
+    height: 307px;
+    background-size: cover;
+    width: 46%;
+    
+    
+    
+}
+
+.save1 {
+    margin-top: 1rem!important;
+    font-size: 0.8rem !important;
+}
+
+.crazy {
+    margin-top: 4rem!important;
+
+}
+
+.heading1 {
+    
+        margin-left: 2.5rem!important;
+    
+}
+
+
+
+.season {
+
+    font-size: 1.9rem !important;
+}
+
+.bg-image3 {
+    
+    background-image: url(../images/b7.jpg);
+    height: 257px;
+    background-size: cover;
+    width: 46%;
+    
+    
+    
+}
+
+.bg-image4 {
+    
+    background-image: url(../images/b4.jpg);
+    height: 257px;
+    background-size: cover;
+    width: 46%;
+    
+    
+    
+}
+
+.bg-image5 {
+    
+    background-image: url(../images/b18.jpg);
+    height: 257px;
+    background-size: cover;
+    width: 46%;
+    
+    
+    
+}
+
+
+.save2 {
+    margin-top: 1rem!important;
+    font-size: 1rem !important;
+
+}
+
+
+.season1 {
+    
+        font-size: 1.6rem !important;
+}
+
+.heading3 {
+    margin-top: 5.5rem!important;
+}
+
+.New {
+    width: 303px;
+}
+
+.explore1 {
+
+    
+
+        background-color: rgba(-11, 19, 45, 0.829);
+        height: 240px !important;
+        width: 100%;
+    
+    
+}
+
+
+
+
+.pointer:hover {
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 600px) {
+
+    .crazy {
+        font-size: 10px;
+        
+    }
+    
+}
+
+
+
+@media screen and (max-width:600px) {
+
+    .row {
+        width: 95%;
+        justify-content: center;
+        
+    }
+}
+
+@media screen and (max-width:600px) {
+
+    .bg-image1 {
+        width: 95%;
+        justify-content: center;
+        text-align: center;
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+.heading1 {
+    justify-content: center;
+    width: 50%;
+    margin-left: 4.5rem!important;
+    text-align: center;
+}    
+}
+
+@media screen and (max-width:600px) {
+
+    .bg-image2 {
+        width: 95%;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+
+    .bg-image3 {
+        width: 95%;
+        justify-content: center;
+        text-align: center;
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+
+    .bg-image4 {
+        width: 95%;
+        justify-content: center;
+
+        text-align: center;
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+
+    .bg-image5 {
+        width: 95%;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+    .heading4 {
+        justify-content: center;
+        width: 50%;
+        margin-left: 3.6rem!important;
+        text-align: center;
+        margin-top: 6.6rem!important;
+    }    
+    }
+
+
+    @media screen and (max-width:600px) {
+        .bg-image {
+            justify-content: center;
+            text-align: center;
+        }    
+        }
+
+        @media screen and (max-width:600px) {
+            .season1 {
+                justify-content: center;
+                text-align: center;
+                font-size: 1.5rem !important;
+
+            }    
+            }
+
+
+
+           
+
+            @media screen and (max-width:600px) {
+                .heading5 {
+                    text-align: center;
+                    justify-content: center;
+    
+                }    
+                }
+
+                @media screen and (max-width:600px) {
+                    .footer {
+                        text-align: center;
+                        justify-content: center;
+        
+                    }    
+                }
+
+                    
+                    @media screen and (max-width:912px) {
+                        .imgfooter {
+                            text-align: center;
+                            justify-content: center;
+
+                            
+                            margin-left: 43px;
+
+                            
+                        }    
+                        }
+
+
+                        @media screen and (max-width:600px) {
+                            .explore1 {
+                                text-align: center;
+                                justify-content: center;
+    
+                                
+                                
+    
+                                
+                            }    
+                            }
+
+                         @media screen and (max-width:600px) {
+
+                                .secondpart {
+                                    width: 95%;
+                                    justify-content: center;
+                                    text-align: center;
+                                    
+                                }
+                            }
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .secondpart {
+                                    width: 95%;
+                                    justify-content: center;
+                                    text-align: center;
+                                    box-sizing: unset;
+                                    
+                                }
+                            }
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .bg-image {
+                                    height: 700px;
+                                    background-size: cover;
+                                    width: 100%;
+                                    background-image: none;
+                                    text-align: center;
+                                }
+                            }
+
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .row{
+                                    justify-content: center;
+                                    box-sizing: unset !important;
+                                }
+                            }
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .footer{
+                                    justify-content: center;
+                                    text-align: center;
+                                }
+                            }
+
+
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .explore1{
+                                    justify-content: center;
+                                    text-align: center;
+                                }
+                            }
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .heading1{
+                                    
+                                    display: inline;
+                                    
+                                }
+                            }
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .heading3{
+                                    
+                                    display: inline;
+                                    
+                                }
+                            }
+
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .bg-image3{
+                                    
+                                    display: inline;
+                                   
+                                    
+                                }
+                            }
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .bg-image4{
+                                    
+                                    display: inline;
+                                    
+                                    
+                                }
+                            }
+
+                            @media screen and (min-width:601px) and (max-width:1200px) {
+
+                                .heading4{
+                                    
+                                    display: inline;
+                                    
+                                }
+                            }
+
+                            @media screen and (max-width:600px) {
+                            .container {
+                                max-width: 100% !important;
+                                overflow-x: hidden !important;
+                            }
+                        }
+                        @media screen and (max-width:600px) {
+                            .row {
+                                margin-left: 10px !important;
+                            }
+                        }
+
+
+                            
